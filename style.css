@@ -44,7 +44,6 @@ header{
     align-items: center;
 }
 
-/* Hero Section */
 
 .hero{
     display:flex;
@@ -101,11 +100,6 @@ header{
 
 
 
-
-
-
-/* Skills Section */
-
 .skills{
     background-color: #715eab;
     padding: 70px 80px;
@@ -140,13 +134,6 @@ header{
 }
 
 
-
-
-
-
-
-
-/* ---------- About Section ---------- */
 
 .about{
     display: flex;
@@ -205,15 +192,9 @@ header{
 
 
 
-
-
-
-
-/* ---------- Projects Section ---------- */
-
 .projects{
     padding: 80px;
-    background-color: rgb(69, 92, 48);
+    background-color: rgb(48, 68, 92);
 }
 
 .projects-heading{
@@ -272,9 +253,6 @@ header{
 }
 
 
-
-
-/* ---------- Footer ---------- */
 
 .footer{
     background-color: rgb(50, 41, 41);
